@@ -14,7 +14,7 @@ This project implements **real-time object dimension measurements** using an ima
 
 ## 🚀 Steps Involved
 
-1. **Open the File**: Open the `main.py` file in a Python editor or IDE.
+1. **Open the File**: Open the `ObjectMeasurement.py` file in a Python editor or IDE.
    
 2. **Set Webcam or Image**: 
    - Set the `webcam` variable to `True` to use the webcam for detection.
@@ -24,7 +24,7 @@ This project implements **real-time object dimension measurements** using an ima
 
 4. **Adjust Video Capture Parameters**: Modify brightness, width, and height settings as needed using the OpenCV `cap.set()` function.
 
-5. **Run the Script**: Execute the script by running `python main.py`.
+5. **Run the Script**: Execute the script.
 
 6. **Observe Output**: 
    - If using the webcam, the script will start capturing video frames.
